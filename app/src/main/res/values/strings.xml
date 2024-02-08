@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="name_1">Зернышки</string>
+    <string name="desc_1">Воскресная школа</string>
+    <string name="name_2">Молодежь</string>
+    <string name="desc_2">Мое день рождение</string>
+    <string name="name_3">Golf</string>
+    <string name="desc_3">Megapolis</string>
+    <string name="name_4">Эля и пшеница</string>
+    <string name="desc_4">Дубоссары</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+</resources>
